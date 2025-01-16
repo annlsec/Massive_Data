@@ -1,0 +1,29 @@
+---
+title: "Massive Data Fundamentals"
+author: "Ann Lian"
+format: html
+toc: true
+execute:
+  warning: false
+  echo: false
+  message: false
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Introduction
+
+Course works for Massive Data Fundamentals.
+
+------------------------------------------------------------------------
+
+# Data and Methods
+
+
+
+------------------------------------------------------------------------
+
+# References
+
+
